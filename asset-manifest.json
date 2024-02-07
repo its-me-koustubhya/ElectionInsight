@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElectionInsight/static/css/main.4cf144d6.css",
+    "main.js": "/ElectionInsight/static/js/main.8e20bfee.js",
+    "static/media/image.png": "/ElectionInsight/static/media/image.2a6ef0b1ecb574115db2.png",
+    "static/media/Indian_General_Election_2019.png": "/ElectionInsight/static/media/Indian_General_Election_2019.74eb6ea6f5ecbd754f30.png",
+    "index.html": "/ElectionInsight/index.html",
+    "main.4cf144d6.css.map": "/ElectionInsight/static/css/main.4cf144d6.css.map",
+    "main.8e20bfee.js.map": "/ElectionInsight/static/js/main.8e20bfee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf144d6.css",
+    "static/js/main.8e20bfee.js"
+  ]
+}
